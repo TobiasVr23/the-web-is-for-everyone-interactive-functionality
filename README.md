@@ -1,33 +1,41 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Visual Thinking
+Hier is de leeromgeving van Visual Thinking.
 
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
-  * [Gebruik](#gebruik)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- Bij Beschrijving staat kort beschreven wat voor project het is en wat je hebt gemaakt -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Gebruik
-<!- Bij Gebruik staat de user story, hoe het werkt en wat je er mee kan. -->
+Dit is een overzicht van de Visual Thinking leeromgeving, hier kan je allerlei informartie vinden om jou te helpen om meer visueel te denken en communiceren.
+<br>
+<img src= "https://user-images.githubusercontent.com/112855854/225871220-c2bd888c-1a22-4a93-9e66-e8f78af1fef4.png" width=40% height=40%>
+Hier kan je een link vinden: https://frightened-long-johns-bear.cyclic.app/
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? Misschien heb je iets met NodeJS gedaan, of heb je een framwork of library gebruikt? -->
+Voor deze website heb ik een API gebruikt en de info eruit gestyled door ze met CSS in een grid te zetten.
+* Node
+* Ejs
+* Express
+* API
+* CSS
+* HTML
+* Javascript
 
 ## Installatie
-<!-- Bij Instalatie staat hoe een andere developer aan jouw repo kan werken -->
+Voor de installatie van Node als je dit project forked doe je het volgende in de terminal npm install
 
+## Gebruik
+Voor het draaien van een server lokaal op je laptop doe je het volgende in de terminal npm start
 
 ## Bronnen
+https://github.com/orgs/fdnd-agency/projects/7
+https://api.visualthinking.fdnd.nl/
+https://github.com/fdnd-projects/visual-thinking/blob/0bcfc55d8c25483d18e5c6629ad7fa7e99ca7b51/vtHBO-styleguide-v1.pdf
 
 ## Licentie
 

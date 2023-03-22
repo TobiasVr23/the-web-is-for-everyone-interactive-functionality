@@ -1,0 +1,115 @@
+:root{
+     /* kleuren */
+ --background-color:#090940;
+ --element-color: #fec44b;
+     /* fonts */
+ --rigid: rigid-square, sans-serif;
+ --broodtekst:"yrsa","Trebuchet MS","Lucida Sans Unicode","Lucida Grande","Lucida Sans",Arial,sans-serif;
+}
+
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+header{
+    width: 100vw;
+    height: 20vh;
+    background-color:var(--background-color);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+
+header img{
+    height: 4em;
+    width: 4em;
+    margin-right: 1em;
+}
+svg{
+    height: 5em;
+    width: 5em;
+    margin-left: 0.5em;
+}
+
+header h1{
+    color: white;
+    font-family: var(--rigid);
+}
+
+.titel{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-self: center;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.titel h2{
+    color: rgb(0, 0, 0);
+    font-family: var(--rigid);
+    margin: 0 auto;
+}
+
+footer{
+    width: 100vw;
+    height: 25vh;
+    background-color:var(--background-color);
+    display: flex;
+    justify-content: baseline;
+    flex-direction: row;
+    align-items: center;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+    "main main main"
+    "main main main";
+    grid-area:main;
+    padding: 10px;
+    column-gap: 10px;
+    row-gap: 10px;
+    padding-top: 0;
+    margin-bottom: 2em;
+}
+
+.overzichtspagina, .methods{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color:var(--background-color);
+}
+
+.overzichtspagina:hover{
+    border-color: var(--element-color);
+    border-width: 3px;
+    transition: 0.1s;
+}
+.methods:hover{
+    border-color: var(--element-color);
+    border-width: 3px;
+    transition: 0.1s;
+}
+
+
+img.method-img{
+    max-width:95%;
+    max-height:95%;
+}
+
+.overzichtspagina a{
+    text-decoration: none; 
+    color: var(--background-color);  
+} 
+
+.methods a{
+    text-decoration: none; 
+    color: var(--background-color); 
+}
