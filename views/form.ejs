@@ -7,17 +7,17 @@
             <h2>Comments</h2>
             <h3>Het duurt een momentje voordat je feedback hier verschijnt.</h3>
             <% form.comments.forEach(comment=> { %>
-                <ul>
-                    <li>
-                        <div class="message">
-                            <h2 class="message-author">
-                            <%= comment.author %>
-                            </h2>
-                            <p class="message-text">
-                            <%= comment.text %>
-                            </p>
-                        </div>
-                    </li>
+    <ul>
+        <li>
+            <div class="message">
+                <h2 class="message-author">
+                    <%= comment.author %>
+                </h2>
+                <p class="message-text">
+                    <%= comment.text %>
+                </p>
+            </div>
+        </li>
                 </ul>
                 <% }) %>
             </article>
