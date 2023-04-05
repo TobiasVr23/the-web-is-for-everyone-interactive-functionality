@@ -13,15 +13,20 @@
 ## Beschrijving
 Dit is de website van Visual Thinking, bedoeld om leerstof aan te bieden voor studenten en docenten over het toepassen van schetsen in de leeromgeving.
 <!-- Voeg een mooie poster visual toe 📸 -->
-![image](https://user-images.githubusercontent.com/112855849/230031348-514eff4f-6c94-46b6-a4d9-05b76f7471fd.png)
+![Schermopname (66)](https://user-images.githubusercontent.com/112855854/230108399-554ff47b-03cf-4dbc-90d8-b5107704007a.png)
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ### Link naar de website
-https://lazy-gold-vulture-toga.cyclic.app/
+https://tame-erin-alligator-sari.cyclic.app/
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-Deze website is gemaakt met de API/Database van Visual Thinking. Om met die database een werkende website te maken heb met node en express gewerkt. Gebruikte talen: EJS, JS en CSS.
+Node
+Ejs
+Express
+API van de opdrachtgever
+CSS
+HTML
+Javascript
 
 ## Installatie
 Start met het forken en clonen van deze repository. Als je vervolgens de console opent (control + ` ) voer je 'npm install' en vervolgens 'npm install express' in om de benodigde bestanden te installeren. 
