@@ -118,3 +118,14 @@ export async function postJson(url, body) {
     .then((response) => response.json())
     .catch((error) => error);
 }
+
+/**
+ * Wraps the fetch api and returns the response body parsed through json
+ * @param {*} url the api endpoint to address
+ * @returns the json response from the api endpoint
+ */
+async function fetchJson(url) {
+  return await fetch(url)
+    .then((response) => response.json())
+    .catch((error) => error);
+}

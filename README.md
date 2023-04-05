@@ -6,6 +6,7 @@
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
   * [Gebruik](#gebruik)
+  * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
