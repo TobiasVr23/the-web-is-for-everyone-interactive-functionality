@@ -1,4 +1,4 @@
-# Overzichts- en detailpagina Visual Thinking
+# Visual Thinking
 
 ## Inhoudsopgave
 
@@ -11,9 +11,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-Deze website is een overzicht van alle werkvormen van Visual Thinking. Ook kan je uitleg en en extra info vinden bij elk individuele werkvorm.
-(Ik heb tijdens deze sprint in de verkeerde repo gewerkt. Ga naar https://github.com/IvarSchuyt/server-side-rendering-VisualThinking om mijn commits te bekijken.)
+Dit is de website van Visual Thinking, bedoeld om leerstof aan te bieden voor studenten en docenten over het toepassen van schetsen in de leeromgeving.
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![image](https://user-images.githubusercontent.com/112855849/230031348-514eff4f-6c94-46b6-a4d9-05b76f7471fd.png)
 <!-- Voeg een link toe naar Github Pages 🌐-->
