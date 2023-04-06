@@ -16,7 +16,7 @@ Dit is de website van Visual Thinking, bedoeld om leerstof aan te bieden voor st
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ### Link naar de website
-https://tame-erin-alligator-sari.cyclic.app/
+https://gray-fair-angler.cyclic.app/
 
 ## Kenmerken
 Node
