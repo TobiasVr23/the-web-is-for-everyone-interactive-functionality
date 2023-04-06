@@ -13,6 +13,11 @@
 Dit is de website van Visual Thinking, bedoeld om leerstof aan te bieden voor studenten en docenten over het toepassen van schetsen in de leeromgeving.
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![Schermopname (66)](https://user-images.githubusercontent.com/112855854/230108399-554ff47b-03cf-4dbc-90d8-b5107704007a.png)
+<br>
+Mobile view:
+<br>
+![image](https://user-images.githubusercontent.com/112855854/230359999-84d96f64-afc7-49a4-a420-178d2d131bdf.png)
+<br>
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ### Link naar de website
