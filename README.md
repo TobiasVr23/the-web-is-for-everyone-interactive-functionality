@@ -16,7 +16,7 @@ Dit is de website van Visual Thinking, bedoeld om leerstof aan te bieden voor st
 <br>
 Mobile view:
 <br>
-![image](https://user-images.githubusercontent.com/112855854/230359999-84d96f64-afc7-49a4-a420-178d2d131bdf.png)
+![Schermopname (67)](https://user-images.githubusercontent.com/112855854/230360098-3569cb24-a97d-4232-9596-373ba5e635f4.png)
 <br>
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
