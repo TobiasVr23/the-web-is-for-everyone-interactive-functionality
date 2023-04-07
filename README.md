@@ -24,14 +24,14 @@ Mobile view:
 https://gray-fair-angler.cyclic.app/
 
 ## Kenmerken
-Node
-Ejs
-Express
-API van de opdrachtgever
-CSS
-HTML
-Javascript
-Progressive enhancement is een strategie die focust op het maken van de basisfuncties eerst, zodat hetgene wat je maakt werkt en er daarna voor zorgt dat het er mooier uitziet.
+<li>Node
+<li>Ejs
+<li>Express
+<li>API van de opdrachtge
+<li>CSS
+<li>HTML
+<li>Javascript
+<li>Progressive enhancement is een strategie die focust op het maken van de basisfuncties eerst, zodat hetgene wat je maakt werkt en er daarna voor zorgt dat het er mooier uitziet.
 
 ## Installatie
 Start met het forken en clonen van deze repository. Als je vervolgens de console opent (control + ` ) voer je 'npm install' en vervolgens 'npm install express' in om de benodigde bestanden te installeren. 
